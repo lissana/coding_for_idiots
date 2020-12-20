@@ -44,14 +44,14 @@ okay, now that we have something to do, lets start learning how to do it.
 we will open the REPL and start playing with it.
 
 first lets define some things, type the following:
-```
+```clojure
 > (def expected_text "MANHATTAN")
 ..
 >
 ```
 
 and now type:
-```
+```clojure
 > expected_text
 "MANHATTAN"
 > 
