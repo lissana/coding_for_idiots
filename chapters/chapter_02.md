@@ -20,8 +20,43 @@ and that is exactly how most books are structured, by showing theorical concepts
 "what? but i don't know anything..." u might be thinking
 and that is precisely how it should be, u should have a goal in mind, a task to solve, and basically be searching on all those books, manuals, blogs, etc. "how i do X?", in a sense a programmer has to be a constant learner.
 
-we will solve this beginners puzzle: https://www.codingame.com/ide/puzzle/ascii-art
+we will write some words in ascii art, for those who don't know what ascii art is, google it.
 
+for example
+```
+# #  #  ### # #  #  ### ###  #  ###  
+### # # # # # # # #  #   #  # # # #  
+### ### # # ### ###  #   #  ### # #  
+# # # # # # # # # #  #   #  # # # #  
+# # # # # # # # # #  #   #  # # # # 
+```
 
+using a template of each letter
+```
+ #  ##   ## ##  ### ###  ## # # ###  ## # # #   # # ###  #  ##   #  ##   ## ### # # # # # # # # # # ### ### 
+# # # # #   # # #   #   #   # #  #    # # # #   ### # # # # # # # # # # #    #  # # # # # # # # # #   #   # 
+### ##  #   # # ##  ##  # # ###  #    # ##  #   ### # # # # ##  # # ##   #   #  # # # # ###  #   #   #   ## 
+# # # # #   # # #   #   # # # #  #  # # # # #   # # # # # # #    ## # #   #  #  # # # # ### # #  #  #       
+# # ##   ## ##  ### #    ## # # ###  #  # # ### # # # #  #  #     # # # ##   #  ###  #  # # # #  #  ###  #  
+```
+
+okay, now that we have something to do, lets start learning how to do it. 
+we will open the REPL and start playing with it.
+
+first lets define some things, type the following:
+```
+> (def expected_text "MANHATTAN")
+..
+>
+```
+
+and now type:
+```
+> expected_text
+"MANHATTAN"
+> 
+```
+
+as u see we can instruct the interpreter to remember value, binding it to a name of our choise, in this example expected\_text is the name and "MANHATTAN" the value, then we observe that we are using double quotes enclosing the value, that is how we introduce literal text into the programs. text is often refered to as strings of characters.
 
 
