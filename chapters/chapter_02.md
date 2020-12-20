@@ -57,6 +57,15 @@ and now type:
 > 
 ```
 
-as u see we can instruct the interpreter to remember value, binding it to a name of our choise, in this example expected\_text is the name and "MANHATTAN" the value, then we observe that we are using double quotes enclosing the value, that is how we introduce literal text into the programs. text is often refered to as strings of characters.
+as u see we can instruct the interpreter to remember a value, binding it to a name of our choise, in this example expected\_text is the name and "MANHATTAN" the value, then we observe that we are using double quotes enclosing the value, that is how we introduce literal text into the programs. text is often refered to as strings of characters.
+
+there are many transformations that we can apply to strings out of the box, check the strings section on: https://clojure.org/api/cheatsheet many of these are pretty intuitive like, join togerher multiple strings into one
+
+```
+> (str/join ["aaa" "bbb" "ccc"])
+"aaabbbccc"
+```
+
+
 
 
