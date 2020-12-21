@@ -11,8 +11,11 @@ some things will be repeated time after time, while other things will be barely 
 the first thing to cover is the mentality of a novice coder
 
 what is the best mentality in my opinion? you are ought to read "just on time", searching for solutions, explanations and examples when trying to get something done.
-then, we gotta start with a goal, a problem to solve, etc. never reading theory just for the sake of it, at least not until you have reached a level advanced enough, where abstract theory makes sense on its own.
-and that is exactly how most books are structured, by showing theorical concepts, explanations and the application of it, then you are giving some exercise.
+we gotta start with a goal, a problem to solve, etc. never reading theory just for the sake of it, at least not until you have reached a level advanced enough, where abstract theory makes sense on its own.
+most books are structured in this way, introducing theorical concepts, explanations and the application of them, then you are giving some exercises.
+
+how polyglots learn human languages? with an active mind, trying to crack the next paragraph, trying to find similarities and differences like playing the detective's game. and that is how you should learn programming, playing the detective's game on each piece of code, each line.
+
 
 02 - right into a task
 ==
@@ -65,7 +68,6 @@ there are many transformations that we can apply to strings out of the box, chec
 > (str/join ["aaa" "bbb" "ccc"])
 "aaabbbccc"
 ```
-
 
 
 
