@@ -70,5 +70,10 @@ there are many transformations that we can apply to strings out of the box, chec
 "aaabbbccc"
 ```
 
+thinking like a computer program
+==
 
+
+names over numbers
+==
 
