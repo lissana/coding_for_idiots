@@ -8,14 +8,15 @@ some things will be repeated time after time, while other things will be barely 
 01 - identity problems
 ==
 
-the first thing to cover is the mentality of a novice coder
-
 what is the best mentality in my opinion? you are ought to read "just on time", searching for solutions, explanations and examples when trying to get something done.
-we gotta start with a goal, a problem to solve, etc. never reading theory just for the sake of it, at least not until you have reached a level advanced enough, where abstract theory makes sense on its own.
+we gotta start with a goal, a problem to solve, etc. not be reading theory just for the sake of it, at least not until you have reached a level advanced enough, where abstract theory makes sense on its own.
 most books are structured in this way, introducing theorical concepts, explanations and the application of them, then you are giving some exercises.
 
-how polyglots learn human languages? with an active mind, trying to crack the next paragraph, trying to find similarities and differences like playing the detective's game. and that is how you should learn programming, playing the detective's game on each piece of code, each line.
+how polyglots learn human languages? with an active mind, trying to crack the next paragraph, trying to find similarities and differences like playing the detective's game, and that is how you should learn programming too, playing the detective's game on each piece of code, each line.
 
+how this book should be used?
+- **type every example**, muscular memory counts.
+- see what can you **infer** from each example, compare them in your head with what u have seen already
 
 02 - right into a task
 ==
